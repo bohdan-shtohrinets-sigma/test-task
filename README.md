@@ -1,4 +1,4 @@
-#Test task
+# Test task
 
 ### Description
 
@@ -7,7 +7,7 @@
  - `test-file` - contains csv-file example for testing app.
 
 
-###Setup instructions
+### Setup instructions
 
 1. Init database:
 
