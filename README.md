@@ -20,6 +20,7 @@ docker-compose up
 
 ```
 cd /server
+npm install
 npm start
 ```
 
@@ -27,6 +28,7 @@ npm start
 
 ```
 cd /client
+npm install
 npm start
 ```
 Open client on http://localhost:3000/
